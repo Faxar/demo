@@ -1,8 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "textContent": "Here is some addtional content" },
-    { "id": 2, "title": "Post 2", "textContent": "This is an additional content" },
-    { "id": 3, "title": "Post 3", "textContent": "And the last comment" }
+    { "id": 1, "title": "Gin", "textContent": "Bombay Saphire" },
+    { "id": 2, "title": "Wiskey", "textContent": "Jack Daniels"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
