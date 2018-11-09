@@ -1,7 +1,8 @@
 {
   "posts": [
     { "id": 1, "title": "Gin", "textContent": "Bombay Saphire" },
-    { "id": 2, "title": "Wiskey", "textContent": "Jack Daniels"}
+    { "id": 2, "title": "Wiskey", "textContent": "Jack Daniels" },
+    { "id": 3, "title": "Rum", "textContent": "Dark rum" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
