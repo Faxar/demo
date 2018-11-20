@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Gin", "textContent": "Bombay Saphire" },
-    { "id": 2, "title": "Wiskey", "textContent": "Jack Daniels" },
-    { "id": 3, "title": "Rum", "textContent": "Dark rum" }
+    { "id": 1, idIngredient: "227", "title": "Gin" },
+    { "id": 2, idIngredient: "275", "title": "Jack Daniels" },
+    { "id": 3, idIngredient: "179", "title": "Dark Rum" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
